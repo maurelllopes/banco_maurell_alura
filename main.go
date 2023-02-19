@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/maurelllopes/banco/contas"
+	"github.com/maurelllopes/banco_maurell_alura/contas"
 )
 
 func main() {
